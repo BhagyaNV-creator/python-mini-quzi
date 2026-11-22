@@ -7,7 +7,7 @@ def run_quiz():
     questions = [
         {
             "prompt": "What does CPU stand for?",
-            "options": ["1. Central Process Unit", "2. Central Processing Unit", "3. Computer Personal Unit", "4. Control Processing Units"],
+            "options": ["1. Central programming Unit", "2. Central Processing Unit", "3. Computer Personal Unit", "4. Control Processing Units"],
             "answer": 2
         },
         {
