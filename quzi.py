@@ -7,17 +7,17 @@ def run_quiz():
     questions = [
         {
             "prompt": "What does CPU stand for?",
-            "options": ["1. Central Process Unit", "2. Central Processing Unit", "3. Computer Personal Unit", "4. Control Processing Unit"],
+            "options": ["1. Central Process Unit", "2. Central Processing Unit", "3. Computer Personal Unit", "4. Control Processing Units"],
             "answer": 2
         },
         {
             "prompt": "Which language is primarily used for Machine Learning and AI today?",
-            "options": ["1. Python", "2. HTML", "3. SQL", "4. CSS"],
+            "options": ["1. Python", "2. HTML", "3. SQL", "4. C++"],
             "answer": 1
         },
         {
             "prompt": "What is the extension of a Python file?",
-            "options": [".pt", ".pyt", ".py", ".pn"],
+            "options": [".python", ".pyt", ".py", ".pn"],
             "answer": 3
         }
     ]
