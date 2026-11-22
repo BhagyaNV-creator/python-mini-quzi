@@ -2,6 +2,7 @@ def calculator():
     print("=================================")
     print("     SIMPLE PYTHON CALCULATOR    ")
     print("=================================")
+    print("This calculator can perform basic arithmetic operations: addition, subtraction, multiplication, and division:")
     print("Select operation:")
     print("1. Add (+)")
     print("2. Subtract (-)")
